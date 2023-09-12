@@ -2,6 +2,8 @@
 Using namespace std;
 Int main()
 {
-Cout<<"hello guys";
+Int x, y;
+cin>>x>>y;
+Cout<<x+y;
 Return 0;
 }
